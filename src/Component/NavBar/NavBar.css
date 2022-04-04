@@ -1,0 +1,44 @@
+.Header {
+    margin: auto;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px #ccc;
+    background-color:navy;
+    padding: 10px 0;
+}
+
+.Header1 {
+    text-align: center;
+    color: whitesmoke;
+    font: bolder;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -1px;
+}
+
+.Header2 {
+    margin-top: -20px;
+    box-sizing: border-box;
+    color: lightcoral;
+    text-align: center;
+    font: bolder;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+.NavigationItem {
+    margin-top: -40px;
+    box-sizing: border-box;
+    display: block; 
+    text-align: end;
+}
+.NavigationItem a {
+    text-decoration: none;
+    margin: 0 10px;
+    color: azure;
+    font-size: 12px;
+}
+
+.NavigationItem a:hover,
+.NavigationItem a:active,
+.NavigationItem a.active {
+    color: lightcoral;
+}

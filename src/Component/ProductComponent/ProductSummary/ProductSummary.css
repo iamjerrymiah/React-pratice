@@ -1,0 +1,17 @@
+.ProductSummary {
+    box-sizing: border-box;
+    box-shadow: 3px 3px 3px #ccc;
+    width: 100%;
+    background-color: azure;
+}
+
+.ProductSummary h4 {
+    color: navy;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ProductSummary p{
+    color: darkgreen;
+    font-size: medium;
+}

@@ -1,0 +1,9 @@
+.ProdBuilder {
+    margin: 50px 100px;
+    list-style: none;
+    display: flex;
+    flex-flow: row;
+    width: 80%;
+    height: 250px;
+    text-align: center;
+}

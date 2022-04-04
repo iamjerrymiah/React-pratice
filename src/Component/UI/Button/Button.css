@@ -1,0 +1,13 @@
+.Button {
+margin: auto;
+color: azure;
+background-color: navy;
+outline: none;
+cursor: pointer;
+font: inherit;
+box-shadow: 1px #ccc;
+padding: 3px;
+margin: 3px;
+font-weight: bold;
+} 
+
